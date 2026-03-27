@@ -1,0 +1,9 @@
+# Configuración del plugin SpawnTP
+
+prefix: "§l§eLight§fTP §l§8| §r§f"
+teleport_time: 5
+dont_move_message: "§fNo te muevas para poder llevarte al Lobby correctamente"
+teleport_success_message: "§fHas sido teletransportado al Lobby"
+teleport_cancelled_message: "§fTeletransporte cancelado porque te moviste"
+hub_message: "§fHas sido eliminado y enviado al lobby"
+teleport_tip_message: "§fLlevándote al Lobby... §e{time}s"

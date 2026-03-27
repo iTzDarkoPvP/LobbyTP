@@ -1,0 +1,13 @@
+name: LobbyTP
+main: LobbySystem\Main
+version: §f1.0.0 By Darko
+api: [2.0.0, 1.0.0]
+author: DarkoMC
+description: Plugin que permite teletransportar jugadores al lobby con múltiples efectos.
+commands:
+  lobby:
+    description: Teletransporta al jugador al Lobby.
+    usage: "/lobby"
+  hub:
+    description: Mata al jugador y lo envía al Lobby
+    usage: "/hub"
